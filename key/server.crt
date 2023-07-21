@@ -1,0 +1,81 @@
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number: 4353 (0x1101)
+        Signature Algorithm: sha256WithRSAEncryption
+        Issuer: C=US, ST=TX, L=Denton, O=MyFakeCA, OU=CA Dept, CN=www.FakeCA.com
+        Validity
+            Not Before: Jul 20 09:05:55 2023 GMT
+            Not After : Jul 17 09:05:55 2033 GMT
+        Subject: C=US, O=Hans Nelson, CN=www.3550project.com
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+                Public-Key: (2048 bit)
+                Modulus:
+                    00:a7:1d:83:03:4c:68:27:fa:4c:ce:7d:06:68:3d:
+                    14:d3:31:14:4a:a0:af:8e:da:ed:b5:59:d0:1d:d2:
+                    f2:ea:37:3b:43:8f:a3:00:c0:f6:7c:93:da:04:e3:
+                    58:80:97:36:3a:65:19:b3:06:f8:93:84:e9:b5:aa:
+                    90:a9:86:48:fa:2e:f0:7b:6d:7e:ba:f5:14:10:42:
+                    b9:9c:b4:27:5d:3f:c5:07:03:c7:96:10:9d:0b:a7:
+                    b0:55:1b:e7:34:b3:a5:97:c4:bc:e4:dd:5c:40:cd:
+                    65:f9:eb:83:b0:1b:40:3f:a4:b5:e5:f1:41:b7:ac:
+                    b2:db:c2:89:52:5f:7f:ff:22:5d:4b:7b:9c:01:37:
+                    af:23:5c:34:71:29:70:4e:ae:98:33:1f:3e:4a:1f:
+                    0b:71:99:29:ad:4d:63:ed:80:d0:72:b6:2d:20:f1:
+                    5e:3c:0b:66:05:7d:56:d6:ef:bf:82:a2:94:4d:f1:
+                    42:0a:48:67:78:fe:d0:bf:03:58:e9:13:fd:f6:9e:
+                    19:8b:d9:9c:aa:a3:7a:f0:45:d5:f8:b5:14:15:1e:
+                    6d:98:6c:b8:3c:48:01:9d:e5:33:71:b0:20:4b:ea:
+                    15:2b:99:7c:ef:46:01:96:80:30:7b:4c:49:e8:9b:
+                    72:54:63:de:07:e7:97:96:29:3b:22:ec:51:c3:4e:
+                    81:99
+                Exponent: 65537 (0x10001)
+        X509v3 extensions:
+            X509v3 Basic Constraints: 
+                CA:FALSE
+            X509v3 Subject Key Identifier: 
+                B9:9C:F8:19:E2:8C:03:8B:66:1B:B3:B6:60:BC:17:6B:88:CD:38:91
+            X509v3 Authority Key Identifier: 
+                23:E3:5B:6F:7F:F9:49:F7:A3:61:18:B6:E6:CA:72:AD:D5:EF:96:42
+            X509v3 Subject Alternative Name: 
+                DNS:www.3550Project.com, DNS:www.project.com, DNS:3550project.com
+    Signature Algorithm: sha256WithRSAEncryption
+    Signature Value:
+        67:61:a7:8c:7d:4b:0e:74:5f:70:ec:51:1f:95:bf:91:14:20:
+        03:57:0f:54:ce:cc:7b:2c:30:bf:57:41:cf:c5:b6:dc:f1:a9:
+        bf:7d:bb:67:63:dc:b2:74:d4:4c:7f:8d:3a:07:85:1b:ba:9e:
+        d9:f1:2e:11:53:06:7b:38:2c:19:cc:48:24:3d:0f:ea:7f:86:
+        ae:67:5b:17:9b:3b:70:7c:2b:fa:28:26:6b:d7:75:6d:3b:42:
+        62:cf:7d:83:97:a6:b5:e2:a3:70:3c:87:b5:8e:88:a2:00:5e:
+        72:9b:27:70:68:73:98:16:87:77:4d:47:bd:a0:36:2d:bc:3f:
+        24:84:ca:97:38:ef:42:b9:31:b5:72:65:76:ab:7f:56:c4:ea:
+        8e:59:15:72:ce:31:6f:fa:14:82:49:eb:ea:f7:8f:be:8d:6c:
+        1b:57:ac:97:9d:33:69:e3:0c:ce:38:f6:d1:fa:03:5a:08:44:
+        96:32:46:f8:1c:81:03:b6:a7:c1:90:2e:cb:a8:28:b2:4e:4e:
+        9d:4d:6a:fd:28:79:b5:a1:43:45:ec:69:6a:40:bf:0a:cd:2b:
+        e3:54:39:53:0b:0b:75:61:c6:34:c7:af:9e:68:86:7a:6b:a1:
+        d4:be:6a:7f:2c:6b:ef:74:5e:7f:07:a2:bf:e4:19:20:01:bc:
+        b4:a5:98:e5
+-----BEGIN CERTIFICATE-----
+MIIDtzCCAp+gAwIBAgICEQEwDQYJKoZIhvcNAQELBQAwaTELMAkGA1UEBhMCVVMx
+CzAJBgNVBAgMAlRYMQ8wDQYDVQQHDAZEZW50b24xETAPBgNVBAoMCE15RmFrZUNB
+MRAwDgYDVQQLDAdDQSBEZXB0MRcwFQYDVQQDDA53d3cuRmFrZUNBLmNvbTAeFw0y
+MzA3MjAwOTA1NTVaFw0zMzA3MTcwOTA1NTVaMEExCzAJBgNVBAYTAlVTMRQwEgYD
+VQQKDAtIYW5zIE5lbHNvbjEcMBoGA1UEAwwTd3d3LjM1NTBwcm9qZWN0LmNvbTCC
+ASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBAKcdgwNMaCf6TM59Bmg9FNMx
+FEqgr47a7bVZ0B3S8uo3O0OPowDA9nyT2gTjWICXNjplGbMG+JOE6bWqkKmGSPou
+8Httfrr1FBBCuZy0J10/xQcDx5YQnQunsFUb5zSzpZfEvOTdXEDNZfnrg7AbQD+k
+teXxQbesstvCiVJff/8iXUt7nAE3ryNcNHEpcE6umDMfPkofC3GZKa1NY+2A0HK2
+LSDxXjwLZgV9Vtbvv4KilE3xQgpIZ3j+0L8DWOkT/faeGYvZnKqjevBF1fi1FBUe
+bZhsuDxIAZ3lM3GwIEvqFSuZfO9GAZaAMHtMSeibclRj3gfnl5YpOyLsUcNOgZkC
+AwEAAaOBkDCBjTAJBgNVHRMEAjAAMB0GA1UdDgQWBBS5nPgZ4owDi2Ybs7ZgvBdr
+iM04kTAfBgNVHSMEGDAWgBQj41tvf/lJ96NhGLbmynKt1e+WQjBABgNVHREEOTA3
+ghN3d3cuMzU1MFByb2plY3QuY29tgg93d3cucHJvamVjdC5jb22CDzM1NTBwcm9q
+ZWN0LmNvbTANBgkqhkiG9w0BAQsFAAOCAQEAZ2GnjH1LDnRfcOxRH5W/kRQgA1cP
+VM7Meywwv1dBz8W23PGpv327Z2PcsnTUTH+NOgeFG7qe2fEuEVMGezgsGcxIJD0P
+6n+GrmdbF5s7cHwr+igma9d1bTtCYs99g5emteKjcDyHtY6IogBecpsncGhzmBaH
+d01HvaA2Lbw/JITKlzjvQrkxtXJldqt/VsTqjlkVcs4xb/oUgknr6vePvo1sG1es
+l50zaeMMzjj20foDWghEljJG+ByBA7anwZAuy6gosk5OnU1q/Sh5taFDRexpakC/
+Cs0r41Q5UwsLdWHGNMevnmiGemuh1L5qfyxr73Refweiv+QZIAG8tKWY5Q==
+-----END CERTIFICATE-----
